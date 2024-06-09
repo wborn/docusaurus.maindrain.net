@@ -1,5 +1,7 @@
 # Website
 
+[![GitHub Actions Status](https://github.com/wborn/docusaurus.maindrain.net/actions/workflows/ci_cd.yml/badge.svg?branch=main)](https://github.com/wborn/docusaurus.maindrain.net/actions/workflows/ci_cd.yml)
+
 This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
 
 ### Installation
