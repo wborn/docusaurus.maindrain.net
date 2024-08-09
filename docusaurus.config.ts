@@ -88,6 +88,11 @@ const config: Config = {
           position: 'left'
         },
         {
+          to: 'https://docusaurus.maindrain.net/sb/',
+          label: 'UI Components',
+          position: 'left'
+        },
+        {
           href: 'https://forum.openremote.io/',
           label: 'Forum',
           position: 'right',
